@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Acme.iml" filepath="$PROJECT_DIR$/.idea/Acme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pagamento/pagamento.iml" filepath="$PROJECT_DIR$/pagamento/pagamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pedido/pedido.iml" filepath="$PROJECT_DIR$/pedido/pedido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitrine/vitrine.iml" filepath="$PROJECT_DIR$/vitrine/vitrine.iml" />
+    </modules>
+  </component>
+</project>
